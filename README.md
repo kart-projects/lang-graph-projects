@@ -1,2 +1,2 @@
-# lang-graph-projects
+# LangGraph projects
 Projects with LangGraph, LangChain and LangSmith
