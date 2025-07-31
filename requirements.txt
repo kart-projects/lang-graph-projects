@@ -1,0 +1,8 @@
+autogen-agentchat==0.6.1
+    # via agents (pyproject.toml)
+autogen-core==0.6.1
+    # via
+    #   autogen-agentchat
+    #   autogen-ext
+autogen-ext==0.6.1
+    # via agents (pyproject.toml)
