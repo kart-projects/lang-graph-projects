@@ -8,4 +8,4 @@ Learning LangGraph involves the following five steps:
 4. Create Edges
 5. Compile the Graph
 
-The above steps are explained with code blocks in steps.py within the src/python folder 
+The above steps are explained within the code blocks in ./src/python/steps.py. 

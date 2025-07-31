@@ -18,7 +18,8 @@ class State(BaseModel):
 
 graph_builder = StateGraph(State)
 
-load_dotenv()
+# Whether to override the system environment variables with the variables in the .env file
+load_dotenv(override=True)
 
 llm = ChatOpenAI(model="gpt-4o-mini")
 
