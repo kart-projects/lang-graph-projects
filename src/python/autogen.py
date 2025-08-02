@@ -6,7 +6,6 @@ from autogen_agentchat.messages import TextMessage
 from autogen_agentchat.agents import AssistantAgent
 from autogen_core import CancellationToken
 
-
 async def autogen_tool():
     load_dotenv(override=True)
 
